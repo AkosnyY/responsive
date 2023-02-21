@@ -80,8 +80,8 @@ body .container__img {
   flex-direction: column;
   gap: 16px;
   background-image: url(/img/1093655.jpg);
-  background-size: cover;
   background-repeat: no-repeat;
+  background-size: cover;
   background-position: center;
   height: 75vh;
 }
@@ -103,7 +103,6 @@ body .container__img__button {
 }
 
 .main__p {
-  display: flex;
   text-align: center;
   margin-left: 20px;
   margin-right: 20px;
